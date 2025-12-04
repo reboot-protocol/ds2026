@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Duy Son
 * Student ID: 23BI14387
-* Student Group ID: Not-for-now
+* Student Group ID: 10
